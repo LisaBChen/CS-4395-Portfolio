@@ -1,5 +1,5 @@
 
-## Welcome to Lisa's Sample Portfolio
+## Welcome to Lisa's Class Portfolio
 
 *Write a couple of sentences about yourself here.*
 
@@ -8,10 +8,10 @@
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
 The portfolio should have the following components: 
-- modifiy the index.md file to reflect the basic structure of the course
-- the links below that lead to the the instructions for every assignments
+- Modifiy the index.md file to reflect the basic structure of the course
+- The links below that lead to the the instructions for every assignments
 - index.md (and main page) that has links to the student's completed assignment
-- readme created for each assignment with a narrative of what the assignment shows (Use as many terms as possible, highlighted in *bold*) 
+- Readme created for each assignment with a narrative of what the assignment shows (Use as many terms as possible, highlighted in *bold*) 
 - Uploaded to both elearning and Github.
 
 ## Portfolio Contents
