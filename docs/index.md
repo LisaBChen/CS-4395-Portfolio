@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Welcome to Lisa's Sample Portfolio
+
+*Write a couple of sentences about yourself here.*
+
+## Portfolio Objective
+
+This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/LisaBChen/CS-4395-Portfolio/edit/gh-pages/docs/index.md) class at UTD with Professor Karen Mazidi. 
+
+The portfolio should have the following components: The links below are to the instructions for each component. Your portfolio page will contain links to your work instead. 
+
+## Portfolio Contents
+
+1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current trends in NLP, along with my personal goals
