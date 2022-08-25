@@ -17,7 +17,7 @@ The portfolio should have the following components:
 ## Portfolio Contents
 
 1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [Assignment Document]()
-    - Github Portfolio Setup (Instructions Document)(): Create a GitHub Portfolio for Class Work 
+    - Github Portfolio Setup [Instructions Document](): Create a GitHub Portfolio for Class Work 
 2. Python Basics
 3. Intro to NLTK
 4. Linguistics 101
