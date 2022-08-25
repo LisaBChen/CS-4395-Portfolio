@@ -1,7 +1,7 @@
 
 ## Welcome to Lisa's Class Portfolio
 
-At the point of time of the creation of this page, I am a university student with a major in Computer Science. Over the years, I have gained experience in a wide variety of fields ranging from Business to S.T.E.M. In my free time, I enjoy researching and pursuing my interests. 
+At the point of time of the creation of this page, I am a university student with a major in Computer Science. Over the years, I have gained experience in a wide variety of fields ranging from Business to S.T.E.M. In my free time, I enjoy researching and pursuing the topics that interest me. 
 
 ## Portfolio Objective
 
