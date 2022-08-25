@@ -18,15 +18,31 @@ The portfolio should have the following components:
 
 1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [Assignment Document]()
     - Github Portfolio Setup (Instructions Document): Create a GitHub Portfolio for Class Work 
-3. Python Basics
-4. Intro to NLTK
-5. Linguistics 101
-6. Words and Counting
-7. POS Tagging
-8. Relationships between words
-
-
-
+2. Python Basics
+3. Intro to NLTK
+4. Linguistics 101
+5. Words and Counting
+6. POS Tagging
+7. Relationships between words
+8. N-gram Models
+9. CFG Grammar
+10. Syntax and Parsing
+11. Annotated Parses
+12. Finding or Building Corpora
+13. Information Extraction
+14. Vector Space Models
+15. Topic Modeling
+16. Semantics
+17. Introduction to Machine Learning
+18. NumPy, pandas, Sckit-Learn, Seaborn
+19. Converting text to numeric data
+20. Naive Bayes
+21. Logistic Regression
+22. Neural Networks
+23. Deep Learning
+24. Deep Learning Variations
+25. Embeddings
+26. Encoders and Decoders
 
 ## Things people should know or information to keep handy
 
@@ -53,8 +69,4 @@ Syntax highlighted code block
 ```
 
 For more information see: [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Github Pages uses the layout and styles from the Jekyll theme (name of theme saved in the Jekyll `_config.yml` configuration file) that have been selected in [repository settings](https://github.com/LisaBChen/CS-4395-Portfolio/settings/pages). 
 
