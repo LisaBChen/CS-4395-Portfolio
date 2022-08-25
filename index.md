@@ -8,10 +8,10 @@
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
 The portfolio should have the following components: 
-- Modifiy the index.md file to reflect the basic structure of the course
-- The links below that lead to the the instructions for every assignments
-- index.md (and main page) that has links to the student's completed assignment
-- Readme created for each assignment with a narrative of what the assignment shows (Use as many terms as possible, highlighted in *bold*) 
+- OPtional (from the outdated instructions) Modifiy the index.md file to reflect the basic structure of the course
+- README.md (aka main page) should have links for every assignment, instructions, & material that is added to the repository
+- Optional: (from the outdated instructions) Add onto the README.md a nararative of what each assignment does (Terms highlighted in *bold*) 
+- Use underscores for file names with spaces
 - Uploaded to both elearning and Github.
 
 ## Portfolio Contents
