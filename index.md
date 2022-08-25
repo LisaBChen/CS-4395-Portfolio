@@ -8,21 +8,25 @@
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
 The portfolio should have the following components: 
-- OPtional (from the outdated instructions) Modifiy the index.md file to reflect the basic structure of the course
-- README.md (aka main page) should have links for every assignment, instructions, & material that is added to the repository
+- Optional: (from the outdated instructions) Modifiy the index.md and README.md file to reflect the basic structure of the course
+- index.md and README.md (aka main page) should have links for every assignment, instructions, & material that is added to the repository
 - Optional: (from the outdated instructions) Add onto the README.md a nararative of what each assignment does (Terms highlighted in *bold*) 
 - Use underscores for file names with spaces
 - Uploaded to both elearning and Github.
 
 ## Portfolio Contents
 
-1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP
-2. Python Basics
-3. Intro to NLTK
-4. Linguistics 101
-5. Words and Counting
-6. POS Tagging
-7. Relationships between words
+1. [Overview of NLP](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [Assignment Document]()
+    - Github Portfolio Setup (Instructions Document): Create a GitHub Portfolio for Class Work 
+3. Python Basics
+4. Intro to NLTK
+5. Linguistics 101
+6. Words and Counting
+7. POS Tagging
+8. Relationships between words
+
+
+
 
 ## Things people should know or information to keep handy
 
