@@ -3,8 +3,8 @@
 Portfolio for CS 4395 Classwork
 
 ## Chapter 1: Natural Language Processing
-- **Github Portfolio Setup** [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20github%20req.pdf): Create a GitHub Portfolio for Class Work 
-- **Overview of NLP**: Portfolio Assignment 0 [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20port%20hw1.pdf): Write an introduction summarizing historical and current approaches to NLP and reflect on your personal interest in NLP [Assignment Document]()
+- **Github Portfolio Setup** [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_github_req.pdf): Create a GitHub Portfolio for Class Work 
+- **Overview of NLP**: Portfolio Assignment 0 [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf): Write an introduction summarizing historical and current approaches to NLP and reflect on your personal interest in NLP [Assignment Document]()
 
 ## Chapter 2: Python Basics
 ## Chapter 3: Intro to NLTK
