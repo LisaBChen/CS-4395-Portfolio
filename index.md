@@ -16,7 +16,7 @@ The portfolio should have the following components:
 
 ## Portfolio Contents
 
-1. [Overview of NLP Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [(Assignment Document)]()
+1. [Overview of NLP Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Overview_of_NLP.pdf)
     - Github Portfolio Setup [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_github_req.pdf): Create a GitHub Portfolio for Class Work 
 2. Python Basics --
 3. Intro to NLTK --
