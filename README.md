@@ -7,6 +7,7 @@ Portfolio for CS 4395 Classwork
 - **Overview of NLP**: Portfolio Assignment 0 [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf): Write an introduction summarizing historical and current approaches to NLP and reflect on your personal interest in NLP [Assignment Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Overview_of_NLP.pdf)
 
 ## Chapter 2: Python Basics
+- [**Portfolio Assignment 1: Text Processing with Python**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Component_1.pdf) -- insert here short overview of hw here: describe what prog does, how to run it, few sent describing the strengths/weakness of python for txt processing in your opinion, few sent describing what learned in this hw/what was a review for you) [(Assignment Document)]() 
 ## Chapter 3: Intro to NLTK
 ## chapter 4: Linguistics 101
 ## Chapter 5: Words and Counting
