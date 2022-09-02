@@ -7,7 +7,9 @@ Portfolio for CS 4395 Classwork
 - **Overview of NLP**: Portfolio Assignment 0 [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf): Write an introduction summarizing historical and current approaches to NLP and reflect on your personal interest in NLP [Assignment Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Overview_of_NLP.pdf)
 
 ## Chapter 2: Python Basics
-- [**Portfolio Assignment 1: Text Processing with Python**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Component_1.pdf) -- insert here short overview of hw here: describe what prog does, how to run it, few sent describing the strengths/weakness of python for txt processing in your opinion, few sent describing what learned in this hw/what was a review for you) [(Assignment Document)]() 
+- [**Portfolio Assignment 1: Text Processing with Python**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Component_1.pdf) -- insert here short overview of hw here: describe what prog does(An employee file has been created in an obsolete system. Your task is to read in the file, process the text
+to be more standardized as described below, create an object for each person with corrections from the
+user, and output each person’s information), how to run it(pycharm, e user needs to specify the relative path ‘data/data.csv’ in a sysarg), few sent describing the strengths/weakness of python for txt processing in your opinion, few sent describing what learned in this hw/what was a review for you (Get comfortable in the Python coding environment of your choice, Gain experience in coding a Python program that uses sysarg, Gain experience in writing a simple class in Python, Be able to code regular expressions for text processing, Be able to code file I/O and pickling, Reflect on what you learned in this coding assignment) [(Assignment Document)]() 
 ## Chapter 3: Intro to NLTK
 ## chapter 4: Linguistics 101
 ## Chapter 5: Words and Counting
