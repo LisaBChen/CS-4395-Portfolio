@@ -10,9 +10,11 @@ Portfolio for CS 4395 Classwork
 ## Chapter 3: Intro to NLTK
 - [**Portfolio Assignment 3 Exploring NLTK**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Assignment_3_Exploring%20NLTK.pdf) -- Using a python notebook practice using features of NLTK and examine a professional-level NLP API [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Assignment_3_Exploring_NLTK_Homework.pdf)
 ## chapter 4: Linguistics 101
+- (See Chapter 5)
 ## Chapter 5: Words and Counting
 - [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a text file and create a word guessing game [(Assignment Document)]()
 ## Chapter 6: POS Tagging
+- (See Chapter 7)
 ## Chapter 7: Relationships between words
 - [**Portfolio Assignment: WordNet**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Ch7_WordNet.pdf) -- Create a python notebook where you will demonstrate basic skills using WordNet and SentiWordNet and learn to identify collocations [(Assignment Document)]()
 ## Chapter 8: N-gram Models 
