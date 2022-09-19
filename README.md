@@ -14,6 +14,7 @@ Portfolio for CS 4395 Classwork
 - [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a text file and create a word guessing game [(Assignment Document)]()
 ## Chapter 6: POS Tagging
 ## Chapter 7: Relationships between words
+- [**Portfolio Assignment: WordNet**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Ch7_WordNet.pdf) -- Create a python notebook where you will demonstrate basic skills using WordNet and SentiWordNet and learn to identify collocations [(Assignment Document)]()
 ## Chapter 8: N-gram Models 
 ## Chapter 9: CFG Grammar 
 ## Chapter 10: Syntax and Parsing 
