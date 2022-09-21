@@ -12,12 +12,13 @@ Portfolio for CS 4395 Classwork
 ## chapter 4: Linguistics 101
 - (See Chapter 5)
 ## Chapter 5: Words and Counting
-- [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a text file and create a word guessing game [(Assignment Document)]()
+- [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a [text file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/anat19.txt) and create a word guessing game [(Assignment Document)]()
 ## Chapter 6: POS Tagging
 - (See Chapter 7)
 ## Chapter 7: Relationships between words
 - [**Portfolio Assignment: WordNet**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Ch7_WordNet.pdf) -- Create a python notebook where you will demonstrate basic skills using WordNet and SentiWordNet and learn to identify collocations [(Assignment Document)]()
 ## Chapter 8: N-gram Models 
+- [**Portfolio Chapter 8: Ngrams**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Ch8_N-grams.pdf) -- Create bigram and unigram dictionaries for English, French, and Italian using the [provided training data](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/ngram_files.zip) where the key is the unigram or bigram text and the value is the count of that unigram or bigram in the data. Then for the test data, calculate probabilities for each language and compare against the true labels.  [(Assignment Document)]()
 ## Chapter 9: CFG Grammar 
 ## Chapter 10: Syntax and Parsing 
 ## Chapter 11: Annotated Parses 
