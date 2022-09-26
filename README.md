@@ -12,7 +12,7 @@ Portfolio for CS 4395 Classwork
 ## chapter 4: Linguistics 101
 - (See Chapter 5)
 ## Chapter 5: Words and Counting
-- [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a [text file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/anat19.txt) and create a word guessing game [(Assignment Document)]()
+- [**Portfolio Chapter 5: Word Guess Game**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Chapter_5.pdf) -- Use Python and NLTK features to explore a [text file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/anat19.txt) and create a word guessing game [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_HW5.py)
 ## Chapter 6: POS Tagging
 - (See Chapter 7)
 ## Chapter 7: Relationships between words
