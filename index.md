@@ -28,7 +28,7 @@ The portfolio should have the following components:
 9. CFG Grammar -- (See Chapter 12)
 10. Syntax and Parsing -- - [Sentence Parsing](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Ch10_Sentence_Parsing.pdf) -- Hand draw a PSG tree of a sentence, labeling POS with the phrase terms defined and hand draw a dependency parse of the sentence with dependency relations labeled and defined. The SRL parse should have predicates listed, arguments numbered, and modifiers for sentence verbs with a discussion about their relation to each verb. The pros and cons of each parse should be be discusssed. [(Assignment Document)]() 
 11. Annotated Parsing -- (See Chapter 10)
-12. Finding or Building Corpora -- [Portfolio: Finding or Building a Corpus](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)]() [(Assignment Document Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HW12_Report.docx)
+12. Finding or Building Corpora -- [Portfolio: Finding or Building a Corpus](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/hw_12.py) [(Assignment Document Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HW12_Report.docx)
 13. Information Extraction --
 14. Vector Space Models --
 15. Topic Modeling --
