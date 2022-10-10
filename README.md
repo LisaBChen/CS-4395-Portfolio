@@ -26,7 +26,7 @@ Portfolio for CS 4395 Classwork
 ## Chapter 11: Annotated Parses 
 (See chapter 10)
 ## Chapter 12: Finding or Building Corpora 
-- [**Finding or Building a Corpus**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)]() [(Assignment Document Report)]()
+- [**Finding or Building a Corpus**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)]() [(Assignment Document Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HW12_Report.docx)
 ## Chapter 13: Information Extraction 
 ## Chapter 14: Vector Space Models 
 ## Chapter 15: Topic Modeling 
