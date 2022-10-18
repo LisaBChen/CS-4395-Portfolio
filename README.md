@@ -22,7 +22,7 @@ Portfolio for CS 4395 Classwork
 ## Chapter 9: CFG Grammar 
 (See Chapter 12)
 ## Chapter 10: Syntax and Parsing 
-- [**Sentence Parsing**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Ch10_Sentence_Parsing.pdf) -- Hand draw a PSG tree of a sentence, labeling POS with the phrase terms defined and hand draw a dependency parse of the sentence with dependency relations labeled and defined. The SRL parse should have predicates listed, arguments numbered, and modifiers for sentence verbs with a discussion about their relation to each verb. The pros and cons of each parse should be be discusssed. [(Assignment Document)]() 
+- [**Sentence Parsing**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Ch10_Sentence_Parsing.pdf) -- Hand draw a PSG tree of a sentence, labeling POS with the phrase terms defined and hand draw a dependency parse of the sentence with dependency relations labeled and defined. The SRL parse should have predicates listed, arguments numbered, and modifiers for sentence verbs with a discussion about their relation to each verb. The pros and cons of each parse should be be discusssed. [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/homework10_cs%204395.docx) 
 ## Chapter 11: Annotated Parses 
 (See chapter 10)
 ## Chapter 12: Finding or Building Corpora 
