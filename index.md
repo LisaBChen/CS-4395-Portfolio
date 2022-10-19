@@ -29,12 +29,12 @@ The portfolio should have the following components:
 10. Syntax and Parsing -- - [Sentence Parsing](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Ch10_Sentence_Parsing.pdf) -- Hand draw a PSG tree of a sentence, labeling POS with the phrase terms defined and hand draw a dependency parse of the sentence with dependency relations labeled and defined. The SRL parse should have predicates listed, arguments numbered, and modifiers for sentence verbs with a discussion about their relation to each verb. The pros and cons of each parse should be be discusssed. [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/homework10_cs%204395.docx) 
 11. Annotated Parsing -- (See Chapter 10)
 12. Finding or Building Corpora -- [Portfolio: Finding or Building a Corpus](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/hw_12.py) [(Assignment Document Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HW12_Report.docx)
-13. Information Extraction --
-14. Vector Space Models --
-15. Topic Modeling --
-16. Semantics --
-17. Introduction to Machine Learning --
-18. NumPy, pandas, Sckit-Learn, Seaborn --
+13. Information Extraction -- (See chatbot project)
+14. Vector Space Models -- (see chatbot project)
+15. Topic Modeling -- (see chatbot project)
+16. Semantics -- (see chatbot project)
+17. Introduction to Machine Learning -- (see chapter 180
+18. NumPy, pandas, Sckit-Learn, Seaborn -- [Portfolio: Reading ACL Papers](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [Assignment Document]()
 19. Converting text to numeric data --
 20. Naive Bayes --
 21. Logistic Regression --
@@ -43,6 +43,7 @@ The portfolio should have the following components:
 24. Deep Learning Variations --
 25. Embeddings --
 26. Encoders and Decoders --
+[Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [Assignment Code]()
 
 ## Things people should know or information to keep handy
 
