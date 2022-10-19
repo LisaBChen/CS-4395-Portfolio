@@ -28,11 +28,17 @@ Portfolio for CS 4395 Classwork
 ## Chapter 12: Finding or Building Corpora 
 - [**Finding or Building a Corpus**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio%20Chapter%2012%20-%20Web%20Crawler.pdf) -- Build a corpus through web scraping/building a web crawler [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/hw_12.py) [(Assignment Document Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HW12_Report.docx)
 ## Chapter 13: Information Extraction 
+(see chatbot project)
 ## Chapter 14: Vector Space Models 
+(see chatbot project)
 ## Chapter 15: Topic Modeling 
+(see chatbot project)
 ## Chapter 16: Semantics 
+(see chatbot project)
 ## Chapter 17: Introduction to Machine Learning 
+(see chapter 18)
 ## Chapter 18: NumPy, pandas, Sckit-Learn, Seaborn 
+[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [Assignment Document]()
 ## Chapter 19: Converting text to numeric data 
 ## Chapter 20: Naive Bayes 
 ## Chapter 21: Logistic Regression 
@@ -41,3 +47,5 @@ Portfolio for CS 4395 Classwork
 ## Chapter 24: Deep Learning Variations 
 ## Chapter 25: Embeddings 
 ## Chapter 26: Encoders and Decoders 
+## Chatbt Project
+[**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [Assignment Code]()
