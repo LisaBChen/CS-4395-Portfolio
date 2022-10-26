@@ -33,11 +33,11 @@ The portfolio should have the following components:
 14. Vector Space Models -- (see chatbot project)
 15. Topic Modeling -- (see chatbot project)
 16. Semantics -- (see chatbot project)
-17. Introduction to Machine Learning -- (see chapter 180
-18. NumPy, pandas, Sckit-Learn, Seaborn -- [Portfolio: Reading ACL Papers](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [Assignment Document]()
-19. Converting text to numeric data --
-20. Naive Bayes --
-21. Logistic Regression --
+17. Introduction to Machine Learning -- (see chapter 18)
+18. NumPy, pandas, Sckit-Learn, Seaborn -- [Portfolio: Reading ACL Papers](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [Assignment Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper_BZC180000.docx)
+19. Converting text to numeric data -- (see chapter 21)
+20. Naive Bayes -- (see chapter 21)
+21. Logistic Regression -- [Portfolio Assignment: Author Attribution](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [Assignment Document]()
 22. Neural Networks --
 23. Deep Learning --
 24. Deep Learning Variations --
