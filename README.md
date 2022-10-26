@@ -38,17 +38,17 @@ Portfolio for CS 4395 Classwork
 ## Chapter 17: Introduction to Machine Learning 
 (see chapter 18)
 ## Chapter 18: NumPy, pandas, Sckit-Learn, Seaborn 
-[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [Assignment Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper_BZC180000.docx)
+[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper_BZC180000.docx)
 ## Chapter 19: Converting text to numeric data
 (See Chapter 21)
 ## Chapter 20: Naive Bayes 
 (See Chapter 21)
 ## Chapter 21: Logistic Regression 
-[**Portfolio Assignment: Author Attribution**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [Assignment Document]()
+[**Portfolio Assignment: Author Attribution**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [(Assignment Document)]()
 ## Chapter 22: Neural Networks 
 ## Chapter 23: Deep Learni24:
 ## Chapter 24: Deep Learning Variations 
 ## Chapter 25: Embeddings 
 ## Chapter 26: Encoders and Decoders 
 ## Chatbot Project
-[**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [Assignment Code]()
+[**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)]()
