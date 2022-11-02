@@ -40,34 +40,7 @@ The portfolio should have the following components:
 21. Logistic Regression -- [Portfolio Assignment: Author Attribution](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [(Assignment Document)]()
 22. Neural Networks -- (see chapter 23)
 23. Deep Learning -- [Portfolio Assignment: Text Classification](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Text_Classification.pdf) -- Make a model and graph from Kaggle data with different architectures and embedding apporaches [(Assignment Document)]()
-24. Deep Learning Variations --
-25. Embeddings --
-26. Encoders and Decoders --
+24. Deep Learning Variations -- (see Chapter 23)
+25. Embeddings -- (see Chapter 23)
+26. Encoders and Decoders -- (See Chapter 23)
 [Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)]()
-
-## Things people should know or information to keep handy
-
-To maintain and preview the content for a Github page (using Markdown files), I can use the link [editor on GitHub](https://github.com/LisaBChen/CS-4395-Portfolio/edit/gh-pages/docs/index.md). 
-
-### Markdown Conventions to Note
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more information see: [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
