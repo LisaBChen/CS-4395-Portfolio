@@ -49,7 +49,10 @@ Portfolio for CS 4395 Classwork
 (see Chatper 23)
 ## Chapter 23: Deep Learni24: [**Portfolio Assignment: Text Classification**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Text_Classification.pdf) -- Make a model and graph from Kaggle data with different architectures and embedding apporaches [(Assignment Document)]()
 ## Chapter 24: Deep Learning Variations 
+(See Chapter 23)
 ## Chapter 25: Embeddings 
+(See Chapter 23)
 ## Chapter 26: Encoders and Decoders 
+(See Chapter 23)
 ## Chatbot Project
 [**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)]()
