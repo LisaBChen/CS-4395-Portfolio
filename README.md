@@ -44,9 +44,9 @@ Portfolio for CS 4395 Classwork
 ## Chapter 20: Naive Bayes 
 (See Chapter 21)
 ## Chapter 21: Logistic Regression 
-[**Portfolio Assignment: Author Attribution**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [(Assignment Document)]()
+[**Portfolio Assignment: Author Attribution**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HWAuthorAttrib.pdf)
 ## Chapter 22: Neural Networks 
-(see Chatper 23)
+(see Chapter 23)
 ## Chapter 23: Deep Learni24: [**Portfolio Assignment: Text Classification**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Text_Classification.pdf) -- Make a model and graph from Kaggle data with different architectures and embedding apporaches [(Assignment Document)]()
 ## Chapter 24: Deep Learning Variations 
 (See Chapter 23)
