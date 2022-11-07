@@ -39,7 +39,7 @@ The portfolio should have the following components:
 20. Naive Bayes -- (see chapter 21)
 21. Logistic Regression -- [Portfolio Assignment: Author Attribution](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_Federalist%20Papers.pdf) -- Gain experience with machine learning using sklearn and Experiment with the NLP task author attribution using the given [.csv file](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/federalist.csv) [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/HWAuthorAttrib.pdf)
 22. Neural Networks -- (see chapter 23)
-23. Deep Learning -- [Portfolio Assignment: Text Classification](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Text_Classification.pdf) -- Make a model and graph from Kaggle data with different architectures and embedding apporaches [(Assignment Document)]()
+23. Deep Learning -- [Portfolio Assignment: Text Classification](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Portfolio_Text_Classification.pdf) -- Make a model and graph from Kaggle data with different architectures and embedding apporaches [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_HW_TextClassification.pdf)
 24. Deep Learning Variations -- (see Chapter 23)
 25. Embeddings -- (see Chapter 23)
 26. Encoders and Decoders -- (See Chapter 23)
