@@ -38,7 +38,7 @@ Portfolio for CS 4395 Classwork
 ## Chapter 17: Introduction to Machine Learning 
 (see chapter 18)
 ## Chapter 18: NumPy, pandas, Sckit-Learn, Seaborn 
-[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper_BZC180000.docx)
+[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper.docx)
 ## Chapter 19: Converting text to numeric data
 (See Chapter 21)
 ## Chapter 20: Naive Bayes 
@@ -56,4 +56,4 @@ Portfolio for CS 4395 Classwork
 ## Chapter 26: Encoders and Decoders 
 (See Chapter 23)
 ## Chatbot Project
-[**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)]()
+[**Chatbot Project Instructions**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/chatbot.py) [(Assignment Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/CS_4395_Chatbot_Report.docx)
