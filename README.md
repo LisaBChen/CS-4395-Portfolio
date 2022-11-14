@@ -38,7 +38,7 @@ Portfolio for CS 4395 Classwork
 ## Chapter 17: Introduction to Machine Learning 
 (see chapter 18)
 ## Chapter 18: NumPy, pandas, Sckit-Learn, Seaborn 
-[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper.docx)
+[**Portfolio: Reading ACL Papers**](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395%20acl%20hw.pdf) --a summary document of article from the 2021 ACL Conference [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/cs_4395_ACL_Paper.docx) [Article](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/acl%20article.pdf)
 ## Chapter 19: Converting text to numeric data
 (See Chapter 21)
 ## Chapter 20: Naive Bayes 
