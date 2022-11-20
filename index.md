@@ -8,11 +8,7 @@ At the point of time of the creation of this page, I am a university student wit
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
 The portfolio should have the following components: 
-- Optional: (from the outdated instructions) Modifiy the index.md and README.md file to reflect the basic structure of the course
-- index.md and README.md (aka main page) should have links for every assignment, instructions, & material that is added to the repository
-- Optional: (from the outdated instructions) Add onto the README.md a nararative of what each assignment does (Terms highlighted in *bold*) 
-- Use underscores for file names with spaces
-- Uploaded to both elearning and Github.
+- Assignments uploaded to both elearning and Github.
 
 ## Portfolio Contents
 
@@ -43,4 +39,4 @@ The portfolio should have the following components:
 24. Deep Learning Variations -- (see Chapter 23)
 25. Embeddings -- (see Chapter 23)
 26. Encoders and Decoders -- (See Chapter 23)
-[Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/chatbot.py) [(Assignment Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/CS_4395_Chatbot_Report.docx)
+- [Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/chatbot.py) [(Assignment Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/CS_4395_Chatbot_Report.docx)
