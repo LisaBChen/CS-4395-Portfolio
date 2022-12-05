@@ -39,4 +39,5 @@ The portfolio should have the following components:
 24. Deep Learning Variations -- (see Chapter 23)
 25. Embeddings -- (see Chapter 23)
 26. Encoders and Decoders -- (See Chapter 23)
-- [Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/chatbot.py) [(Assignment Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/CS_4395_Chatbot_Report.docx)
+
+[Chatbot Project Instructions](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_chatbot.pdf) --Create a chatbot using NLP technique [(Assignment Code)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/chatbot.py) [(Assignment Report)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/CS_4395_Chatbot_Report.docx)
