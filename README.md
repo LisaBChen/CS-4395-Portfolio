@@ -1,6 +1,6 @@
 # CS_4395_Portfolio
 
-Portfolio for CS 4395 Classwork
+Portfolio for [CS 4395](https://github.com/kjmazidi/NLP) Classwork
 
 ## Chapter 1: Natural Language Processing
 - **Github Portfolio Setup** [Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_github_req.pdf) -- Create a GitHub Portfolio for Class Work 
