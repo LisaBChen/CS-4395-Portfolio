@@ -7,9 +7,6 @@ At the point of time of the creation of this page, I am a university student wit
 
 This portfolio highlights work done for the [Introduction to Natural Language Processing](https://github.com/kjmazidi/NLP/blob/gh-pages/index.md) class at UTD with Professor Karen Mazidi. 
 
-The portfolio should have the following components: 
-- Assignments uploaded to both elearning and Github.
-
 ## Portfolio Contents
 
 1. [Overview of NLP Instructions Document](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/4395_port_hw1.pdf) -- a discussion of historical and current approaches to NLP, along with my personal interest in NLP [(Assignment Document)](https://github.com/LisaBChen/CS_4395_Portfolio/blob/main/Overview_of_NLP.pdf)
